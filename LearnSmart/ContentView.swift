@@ -23,7 +23,7 @@ struct ContentView: View {
                 }.padding()
                 Spacer()
             }.padding(.top, 50).padding(.leading, 20).padding(.trailing, 20)
-            Text("Trying test git")
+            Text("Trying test git second time")
             Text("Placeholder")
             Text(/*@START_MENU_TOKEN@*/"Placeholder"/*@END_MENU_TOKEN@*/)
             Text("Placeholder")
